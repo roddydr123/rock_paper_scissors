@@ -10,4 +10,4 @@
 
 ![](results/taske.png)
 
-A colour plot showing how the average minority fraction (proportion of cells with the least common type) varies with the probabilities of paper $\arrow$ scissors and scissors $\arrow$ rock. Other system dynamics were studied such as the variance of the minority fraction and oscillations in states over time.
+A colour plot showing how the average minority fraction (proportion of cells with the least common type) varies with the probabilities of paper -> scissors and scissors -> rock. Other system dynamics were studied such as the variance of the minority fraction and oscillations in states over time.
