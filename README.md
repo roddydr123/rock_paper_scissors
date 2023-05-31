@@ -1,8 +1,8 @@
-# Modelling "Rock Paper Scissors" on a cellular grid.
+# Modelling "Rock, Paper, Scissors" on a grid of cells.
 
-### A simulation cells using update rules similar to those used in the game "rock, paper, scissors". Both deterministic and stochastic algorithms are used and the dynamics were studied as well as different initial conditions.
+### A simulation of cells using update rules similar to those used in the game "rock, paper, scissors". Both deterministic and stochastic algorithms are used and the dynamics were studied as well as different initial conditions.
 
-* `rps.py` contains the deterministic algorithm where cells are updated based on those around them with no uncertainty. A visualisation can be shown with `python rps.py vis <grid size~100>`. The initial conditions are the same each time and are like a pie chart projected onto a square. A steady state is always reached which looks like this:
+* `rps.py` contains the deterministic algorithm where cells are updated based on those around them with no uncertainty. A visualisation can be shown with `python rps.py vis <grid size~100>`. The initial conditions are the same each time and look like a square pie chart. A steady state is always reached which looks like this:
 
 ![](results/det_steady_state.png)
 
